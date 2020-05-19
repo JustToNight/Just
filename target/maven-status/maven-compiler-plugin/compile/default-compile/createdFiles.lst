@@ -1,0 +1,16 @@
+com\lk\bean\GoodExample.class
+com\lk\service\impl\UserServiceImpl.class
+com\lk\controller\UserController.class
+com\lk\bean\UserExample$GeneratedCriteria.class
+com\lk\bean\GoodExample$GeneratedCriteria.class
+com\lk\service\UserService.class
+com\lk\bean\User.class
+com\lk\bean\UserExample.class
+com\lk\bean\GoodExample$Criteria.class
+com\lk\bean\GoodExample$Criterion.class
+com\lk\dao\UserMapper.class
+com\lk\util\MyGennerator.class
+com\lk\dao\GoodMapper.class
+com\lk\bean\UserExample$Criteria.class
+com\lk\bean\Good.class
+com\lk\bean\UserExample$Criterion.class
